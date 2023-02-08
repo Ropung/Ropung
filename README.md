@@ -1,4 +1,5 @@
 <div align="center">
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ropung&layout=compact&theme=radical)](https://github.com/Ropung/github-readme-stats)
   </div>
 	<br>
@@ -16,4 +17,5 @@
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
+</div>
 </div>
